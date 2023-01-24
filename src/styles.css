@@ -6,3 +6,24 @@
     margin-left:5%;
     margin-right:5%;
 }
+.cform{
+    text-align:center;
+    display:flex;
+    margin:auto;
+    width:300px;
+    flex-direction:column;
+    
+
+}
+.form-input{
+    height:35px;
+    border:  1px solid bluevoilet;
+    padding-left:10px;
+    margin-bottom:20px;
+   
+}
+.form-button{
+    height:35px;
+    border: 1px solid bluevoilet;
+    cursor:pointer;
+}
