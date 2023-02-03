@@ -15,6 +15,9 @@
     
 
 }
+.error-p{
+    color:red;
+}
 .form-input{
     height:35px;
     border:  1px solid bluevoilet;
